@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/aluno/Documents/NetBeansProjects/JavaBank_3/src/br/com/javabank/modelo/Conta.java</file>
+            <file>file:/C:/Users/aluno/Documents/NetBeansProjects/JavaBank_3/src/br/com/javabank/exceptions/SaqueInvalidoException.java</file>
+            <file>file:/C:/Users/aluno/Documents/NetBeansProjects/JavaBank_3/src/br/com/javabank/exceptions/DepositoInvalidoException.java</file>
+        </group>
+    </open-files>
+</project-private>
