@@ -1,0 +1,4 @@
+br\estacio\agendajava\modelo\Contato.class
+br\estacio\agendajava\modelo\ContatoDAO.class
+br\estacio\agendajava\AgendaJava.class
+br\estacio\agendajava\util\DatabaseConection.class
